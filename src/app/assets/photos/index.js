@@ -1,0 +1,1 @@
+export { default as avatar } from "./website1.webp"
